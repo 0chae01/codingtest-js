@@ -1,3 +1,5 @@
+// 영상 편집기 타임라인 정리(이중 연결 리스트)
+
 class Node {
   constructor(value) {
     this.value = value;

@@ -1,3 +1,5 @@
+// 연결리스트 뒤집기(연결리스트)
+
 class Node {
   constructor(value) {
     this.value = value;
