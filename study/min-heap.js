@@ -11,6 +11,7 @@ class MinHeap {
   swap(i, j) {
     [this.heap[i], this.heap[j]] = [this.heap[j], this.heap[i]];
   }
+
   heapifyUp() {
     let index = this.heap.length - 1;
 
